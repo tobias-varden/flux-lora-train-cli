@@ -1,6 +1,6 @@
 # Flux LORA Training CLI
 
-This is a command-line interface (CLI) tool for creating a Flux LORA (LoRA: Low-Rank Adaptation) using [replicate.com](https://replicate.com). Flux LORA is a technique for fine-tuning a pre-trained model to learn a new concept, in this case, a specific token.
+This is a command-line interface (CLI) tool for creating a Flux LORA (LoRA: Low-Rank Adaptation) using [replicate.com](https://replicate.com). Flux LORA is a technique for fine-tuning a pre-trained model to learn a new concept.
 
 ## Prerequisites
 
@@ -53,4 +53,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - [replicate.com](https://replicate.com) for providing the infrastructure for training the LORA model.
-- [Flux LORA](https://github.com/Flux-AI-Labs/flux-lora) for the LORA training technique.
+- [flux-dev-lora-trainer](https://replicate.com/ostris/flux-dev-lora-trainer/train) for the LORA training util.
